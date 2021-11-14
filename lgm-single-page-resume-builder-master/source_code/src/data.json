@@ -1,20 +1,20 @@
 {
   "personal_details": {
     "name": "Lingamaiah Manga",
-    "role": "Software Engineer",
+    "role": "Backend Developer/Data Engineer",
     "mobile": "+91 8096456018",
     "email": "LingamaiahManga2@gmail.com",
     "location": "Hyderabad",
     "experience": [
-      { "type": "Java8/Python3", "years": "5+ years" },
-      { "type": "Total Experience", "years": "5+ years" }
+      { "type": "Java8/Python3", "years": "5.5+ years" },
+      { "type": "Total Experience", "years": "5.5+ years" }
     ],
     "linkedin": "lingamaiahmanga",
     "github": "lgmcse94"
   },
   "summary": {
     "title": "About me",
-    "description": ["A programming geek and experienced Software Engineer with a demonstrated history of working in the software industry.Experienced in Backend Development, implementing Micro services using Java, Python, Julia.Expert in data processing.Experienced in implementing web application end to end.Worked as R&D, Data Engineer, Software Development.<br><b>My Skill Set Matrix:</b>Java, Spring Boot, Micro Services, Python, Flask, Django, Azure, C, C++, Assembly (emu 8086), Lex, Java SE, JDBC, Servlet, JSP, J2EE, Web services, Spring Core, Spring MVC, Spring Security, Spring REST, Hibernate, JSoup, JSON org, Shell, VB Script, NLP, NLTK, Stanford Core Lib, Pandas, SQL, MySQL, MsSQL, Cassandra, HBase, Mongo DB, PostgreSQL, Hadoop, Map Reduce, Spark, Scala, PySpark, HDFS, Hive, Pig, Sqoop, Spark SQL, HBase, Cassandra, MongoDB, Kafka, Resilient Distributed Dataset RDD, Spark Core, Spark SQL, Spark Streaming, Spark ML Lib, Dash Framework, Apache airflow, AWS S3, Matplotlib, PyPlot, Plotly, Dev C++, MySQL, Oracle, Tomcat, Nginx, Gunicorn, Load Balancer, SoapUI, SQLPlus, SQLDeveloper, SBT, Anaconda3, Jupyter Notebook, Google Colab, Mac OS X, Linux, Cloudera, Windows, Fedora.</br></br></br>"
+    "description": ["A programming geek and experienced Software Engineer with a demonstrated history of working in the software industry.Experienced in Backend Development, implementing Micro services using Java, Python, Julia.Expert in data processing.Experienced in implementing web application end to end.Worked as R&D, Data Engineer, Software Development.<br><b>My Skill Set Matrix:</b>Java, Spring Boot, Micro Services, Python, Flask, Django, Azure, C, C++, Assembly (emu 8086), Lex, Java SE, JDBC, Servlet, JSP, J2EE, Web services, Spring Core, Spring MVC, Spring Security, Spring REST, Hibernate, JSoup, JSON org, Shell, VB Script, NLP, NLTK, Stanford Core Lib, Pandas, SQL, MySQL, MsSQL, Cassandra, HBase, Mongo DB, PostgreSQL,SQLAlchemy, Hadoop, Map Reduce, Spark, Scala, PySpark, HDFS, Hive, Pig, Sqoop, Spark SQL, HBase, Cassandra, MongoDB, Kafka, Resilient Distributed Dataset RDD, Spark Core, Spark SQL, Spark Streaming, Spark ML Lib, Dash Framework, Apache airflow, AWS S3, Matplotlib, PyPlot, Plotly, Dev C++, MySQL, Oracle, Tomcat, Nginx, Gunicorn, Load Balancer, SoapUI, SQLPlus, SQLDeveloper, SBT, Anaconda3, Jupyter Notebook, Google Colab, Mac OS X, Linux, Cloudera, Windows, Fedora.</br></br></br></br></br></br>"
     ]
   },
   "career": {
@@ -29,7 +29,8 @@
         "role": "Team Lead",
         "years": "May 2021 - Present",
         "description": [
-          "Designed a architecture for data processing.Implemented end to end product which supports the multiple organizations and multiple batches.Using apache airflow framework and Python3.It expands and shrinks based on data.N tasks distributes to N workers.Deployed it on Cloud Kubernetes."
+          "Designed database architecture for <b>MLOps </b>Experiment,Run and Model tables for Rest APIs.Implemented CRUD API for each using FastAPI framework.Which will be consumed by data science team to train and test the models from UI with APIs driven and can able to create,run and register the models by multiple organizations.Internally It is using the Google's Kubeflow and MLflow frameworks.",
+          "Designed a architecture for data processing.Implemented end to end product which supports the multiple organizations and multiple batches.Using <b>apache airflow</b> framework and Python3.It expands and shrinks based on data.N tasks distributes to N workers.Deployed it on Cloud Kubernetes."
         ]
       },
       {
@@ -71,9 +72,10 @@
   "key_projects": {
     "title": "Key Projects / Involvements",
     "description": [
-      "In CBRE, Took the initiation for Julia backend Microservice APIs development and started adding new features, when there is no KT and there is no documentation but was able to debug and understood the end to end application flow.I have been invlovoing in organization level R&D project POCs.",
-      "In Oracle, Optimized the Oracle HCM Data Utilities project,It used to take around 24 hrs to process all products data, After Optimizing it's taking around 30 mins.",
-      "In ADP, Participated in hackathon.Developed Google assistant to obtain daily calendar and pay related info available with ADP.Received appreciation award from director,New jersey,US."
+      "In Intellect, From the Organization received <b>On the Spot Recognition Award</b>,“In sincere appreciation, Dedication at work for developing the airflow dags which controlled the entire batch processing.This enhancement helped to achieve the mammoth task of processing 2000 files in 5 minutes.”",
+      "In CBRE, Received appreciations from Vice President, Head Digital & Technology, India.Developed the chatbot services.I had been invlovoing in organization level R&D POCs.",
+      "In Oracle, Optimized the Oracle HCM Data Utilities processing time,It used to take around 24 hrs to process all products data, After Optimization It was taking around 30 mins.",
+      "In ADP, Received appreciation award from Director,New jersey,US.Participated in hackathon, Developed Google assistant to obtain daily calendar and pay related info available with ADP."
     ]
   },
   "certificates": {
@@ -90,11 +92,13 @@
     "title": "Technical Skills",
     "description": [
       { "name": "Data Processing", "rating": 5 },
-      { "name": "Ds & Algorithms", "rating": 5 },
-      { "name": "System Design", "rating": 5 },
+      { "name": "Ds & Algorithms", "rating": 4 },
+      { "name": "System Design", "rating": 4 },
       { "name": "Spring Boot", "rating": 3 },
       { "name": "Microservices", "rating": 4 },
-      { "name": "Flask & Django", "rating": 4 }
+      { "name": "Flask & Django", "rating": 4 },
+      { "name": "FastAPI", "rating": 4 },
+      { "name": "ORM", "rating": 4 }
     ]
   },
   "expertise": {
@@ -109,11 +113,18 @@
   },
   "tools": {
     "title": "Tools",
-    "description": ["Git", "CVS", "Oracle ADE", "VS Code", "IntelliJ IDEA", "Eclipse", "Postman"]
+    "description": ["Git", "CVS", "Oracle ADE", "VS Code", "Eclipse", "Postman"]
   },
   "education": {
     "title": "Education",
     "description": [
+    	{
+        "institution": "IIIT, Hyderabad",
+        "years": "2019 - 2019",
+        "grade": "Excellent",
+        "degree": "Certification",
+        "specialization": "Advanced Certification in AI&ML"
+      },
       {
         "institution": "IIIT, RK Valley, RGUKT",
         "years": "2012 - 2016",
