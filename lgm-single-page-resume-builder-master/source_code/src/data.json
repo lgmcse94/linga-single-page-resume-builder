@@ -6,8 +6,8 @@
     "email": "LingamaiahManga2@gmail.com",
     "location": "Hyderabad",
     "experience": [
-      { "type": "Java8/Python3", "years": "5.5+ years" },
-      { "type": "Total Experience", "years": "5.5+ years" }
+      { "type": "Java8/Python3", "years": "5.8+ years" },
+      { "type": "Total Experience", "years": "5.8+ years" }
     ],
     "linkedin": "lingamaiahmanga",
     "github": "lgmcse94"
@@ -112,8 +112,9 @@
     ]
   },
   "tools": {
-    "title": "Tools",
-    "description": ["Git", "CVS", "Oracle ADE", "VS Code", "Eclipse", "Postman"]
+    "title": "Tools/Code Quality Tools",
+    "description": ["Git", "CVS", "Oracle ADE", "VS Code", "Eclipse", "Postman", "Sonar", "Twistlock", "Veracode"]
+    
   },
   "education": {
     "title": "Education",
