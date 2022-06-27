@@ -2,8 +2,8 @@
   "personal_details": {
     "name": "Lingamaiah Manga",
     "role": "Backend Developer/Data Engineer",
-    "mobile": "+91 8096456018",
-    "email": "LingamaiahManga2@gmail.com",
+    "mobile": "+91 9618728690",
+    "email": "LingamaiahMangain@gmail.com",
     "location": "Hyderabad",
     "experience": [
       { "type": "Java8/Python3", "years": "5.8+ years" },
@@ -29,6 +29,7 @@
         "role": "Team Lead",
         "years": "May 2021 - Present",
         "description": [
+          "Designed Rule Engine architecture to validate the invoice details for IN, UK and OTHER regions.Implemented APIs using Bottle Framework to validate the features.",
           "Designed database architecture for <b>MLOps </b>Experiment,Run and Model tables for Rest APIs.Implemented CRUD API for each using FastAPI framework.Which will be consumed by data science team to train and test the models from UI with APIs driven and can able to create,run and register the models by multiple organizations.Internally It is using the Google's Kubeflow and MLflow frameworks.",
           "Designed a architecture for data processing.Implemented end to end product which supports the multiple organizations and multiple batches.Using <b>apache airflow</b> framework and Python3.It expands and shrinks based on data.N tasks distributes to N workers.Deployed it on Cloud Kubernetes."
         ]
