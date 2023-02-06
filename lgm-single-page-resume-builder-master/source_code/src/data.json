@@ -1,0 +1,161 @@
+{
+  "personal_details": {
+    "name": "Lingamaiah Manga",
+    "role": "Technical Lead/Architect",
+    "mobile": "+91 XXXXX XXXXX",
+    "email": "XXXXX@gmail.com",
+    "location": "Hyderabad",
+    "experience": [
+      { "type": "Backend Developer/Data Engineer", "years": "6.5+ years" },
+      { "type": "Total Experience", "years": "6.5+ years" }
+    ],
+    "linkedin": "lingamaiahmanga",
+    "github": "lgmcse94"
+  },
+  "summary": {
+    "title": "About me",
+    "description": ["A programming geek and experienced Software Engineer with a demonstrated history of working in the software industry.Experienced in Backend Development, implementing Micro services using Java, Python, Julia.Expert in data processing.Experienced in implementing web application end to end.Worked as R&D, Data Engineer, Software Development.<br><b>My Skill Set Matrix:</b>Java, Spring Boot, Micro Services, Python, Flask, Django, Azure, C, C++, Assembly (emu 8086), Lex, Java SE, JDBC, Servlet, JSP, J2EE, Web services, Spring Core, Spring MVC, Spring Security, Spring REST, Hibernate, JSoup, JSON org, Shell, VB Script, NLP, NLTK, Stanford Core Lib, Pandas, SQL, MySQL, MsSQL, Cassandra, HBase, Mongo DB, PostgreSQL,SQLAlchemy, Hadoop, Map Reduce, Spark, Scala, PySpark, HDFS, Hive, Pig, Sqoop, Spark SQL, HBase, Cassandra, MongoDB, Kafka, Resilient Distributed Dataset RDD, Spark Core, Spark SQL, Spark Streaming, Spark ML Lib, Dash Framework, Apache airflow, AWS S3, Matplotlib, PyPlot, Plotly, Dev C++, MySQL, Oracle, Tomcat, Nginx, Gunicorn, Load Balancer, SoapUI, SQLPlus, SQLDeveloper, SBT, Anaconda3, Jupyter Notebook, Google Colab, Mac OS X, Linux, Cloudera, Windows, Fedora.</br></br></br></br></br></br>"
+    ]
+  },
+  "career": {
+    "title": "Career Objective",
+    "description": "Eager to expand my skill set and a very enthusiastic learner and quick at adaption.</br></br></br></br>"
+  },
+  "companyDetails": {
+    "title": "Professional Experience",
+    "companyList": [
+      {
+        "name": "Paytm (One97 Communications Limited).",
+        "role": "Technical Lead",
+        "years": "Aug 2022 - Present",
+        "description": [
+            "Implemented a PaytmCaller product to make calls/messages automatically when something went wrong in the application based on issue criticality.It makes call to engineers on their mobile or email or slack at the time of incidents/outages.Converts text to speech for telling the alerts.It can call multiple people in parallel or serial based on escalation levels such as add schedule(create a users list to whom should it trigger), add schedule group(add multiple schedules) and add tech team(add multiple schedule groups).So that people can act on the alerts faster and can improve the stability of ecosystem.<br>Implemented audit log flow, Created audit APIs, data, services and models to store/retrieve data in DynamoDB.<br>Implemented login rejects functionality if user enters wrong credentials.Max blocking time 30 mins and max allowed wrong attempts 3.Used DynamoDB TTL to auto expire the date in 30 mins.<br>Implemented custom validators and regex to allow the string data across the application, So that application is very secure and does not allow bad data or wrong value attempts.",
+            "Implemented a dashboard for Redis Manager, Redis Sentinel System(Master, Slave , Sentinel) to manage the cache across the india and across the globe to maintain paytm payments info securely.We can add nodes dynamically such as Add Node, Delete Node, Fail Over and also we can set or get the configuration dynamically.Implemented a benchmarking features.Implemented features to onboard existing sentinel.Enabled prometheus monitoring features."
+        ]
+      },
+      {
+        "name": "Intellect Design Arena Ltd.",
+        "role": "Team Lead",
+        "years": "May 2021 - Present",
+        "description": [
+          "Designed Rule Engine architecture to validate the invoice details for IN, UK and OTHER regions.Implemented APIs using Bottle Framework to validate the features.",
+          "Designed database architecture for <b>MLOps </b>Experiment,Run and Model tables for Rest APIs.Implemented CRUD API for each using FastAPI framework.Which will be consumed by data science team to train and test the models from UI with APIs driven and can able to create,run and register the models by multiple organizations.Internally It is using the Google's Kubeflow and MLflow frameworks.",
+          "Designed a architecture for data processing.Implemented end to end product which supports the multiple organizations and multiple batches.Using <b>apache airflow</b> framework and Python3.It expands and shrinks based on data.N tasks distributes to N workers.Deployed it on Cloud Kubernetes."
+        ]
+      },
+      {
+        "name": "CBRE South Asia Pvt Ltd.",
+        "role": "Software Engineer",
+        "years": "Oct 2019 - May 2021",
+        "description": [
+          "Implemented a Java Microservices with Spring Boot for understanding the employees skill set matrix.",
+          "Implemented a Microservice APIs for Plans application using Julia language and dockerized it.Implemented a utility for logs sync and rotation.",
+          "Implemented a chatbot Microservice APIs and deployed it on cloud microsoft Azure App service.",
+          "Implemented a data migration utility,It copies the data from MsSQL/PostgreSQL source db, table to PostgreSQL/MsSQL target db, table."
+        ]
+      },
+      {
+        "name": "Oracle India Pvt Ltd.",
+        "role": "Applications Engineer",
+        "years": "July 2018 - Oct 2019",
+        "expYears": "1.25 years",
+        "description": [
+          "Oracle HCM Cloud(Oracle Integrated Cloud Applications),implemented a algorithm to understand the all producs process execution time when scheduled.Optimized the tasks to finish it quickly.",
+          "Oracle HCM Simple Report Generator, It's a web application simple report generator on top of HCM result generator.",
+          "Oracle HCM Data Utilities, Implemented a data scanning engine for all the products master/child and other columns info.Storing the data in memory for quick access on large data sets.Used PySpark Created temp tables in memory, Implemented data generation engine from rest APIs using java.Mapped the search result to UI.",
+          "Oracle HCM Click History, It’s a production logs analysis and graph generation to track the user flow activity."
+        ]
+      },
+      {
+        "name": "ADP India Pvt Ltd.",
+        "role": "Member Technical",
+        "years": "Oct 2016 - July 2018",
+        "expYears": "1.75 years",
+        "description": [
+          "Implemented a hybrid automation framework using Selenium/Java and introduced to QA in ADP.",
+          "Implemented a data processing pipeline for IRVP using big data technologies.",
+          "Worked on RSVP/IRVP web application to enhance the functionalities."
+        ]
+      }
+    ]
+  },
+  "key_projects": {
+    "title": "Key Projects / Involvements",
+    "description": [
+      "In Intellect, From the Organization received <b>On the Spot Recognition Award</b>,“In sincere appreciation, Dedication at work for developing the airflow dags which controlled the entire batch processing.This enhancement helped to achieve the mammoth task of processing 2000 files in 5 minutes.”",
+      "In CBRE, Received appreciations from Vice President, Head Digital & Technology, India.Developed the chatbot services.I had been invlovoing in organization level R&D POCs.",
+      "In Oracle, Optimized the Oracle HCM Data Utilities processing time,It used to take around 24 hrs to process all products data, After Optimization It was taking around 30 mins.",
+      "In ADP, Received appreciation award from Director,New jersey,US.Participated in hackathon, Developed Google assistant to obtain daily calendar and pay related info available with ADP."
+    ]
+  },
+  "certificates": {
+    "title": "Certificates and Awards",
+    "description": [
+      "Visit my <a href='https://www.linkedin.com/in/lingamaiahmanga' target='_blank'>linkedin</a> profile for latest coding/technologies certificates.",
+      "Developed a framework to automate IRVP(iProducts) for North America payroll in the short span of time.Appreciated by India VP-GPT(Global Business solutions) in ADP.",
+      "Developed a IRTS project at IIIT first convocation2016.Received Chancellors special appreciation award by Chancellor Raj Reddy, Honorable Chief Minister Mr. Chandrababu Naidu sir.",
+      "Acquired 2nd prize in ‘CODING and DECODING’ in SARVAGNYA 2K15 national level technical symposium at JNTU pulivendula.",
+      "Acquired mandal 1st rank in X th class year of 2010 and received pratibha award from government of andhra pradesh, india."
+    ]
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "description": [
+      { "name": "Data Processing", "rating": 5 },
+      { "name": "Ds & Algorithms", "rating": 4 },
+      { "name": "System Design", "rating": 4 },
+      { "name": "Spring Boot", "rating": 3 },
+      { "name": "Microservices", "rating": 4 },
+      { "name": "Flask & Django", "rating": 4 },
+      { "name": "FastAPI", "rating": 4 },
+      { "name": "ORM", "rating": 4 }
+    ]
+  },
+  "expertise": {
+    "title": "Areas of Expertise",
+    "description": ["Java8", "Python3", "Problem solving", "OOPS", "SQL & NoSQL"]
+  },
+  "methodology": {
+    "title": "Methodology / Approach",
+    "description": [
+      "Agile methodology", "Design Patterns", "MVC",  "RESTful architecture", "Microservice architecture"
+    ]
+  },
+  "tools": {
+    "title": "Tools/Code Quality Tools",
+    "description": ["Git", "CVS", "Oracle ADE", "VS Code", "Eclipse", "Postman", "Sonar", "Twistlock", "Veracode"]
+    
+  },
+  "education": {
+    "title": "Education",
+    "description": [
+    	{
+        "institution": "IIIT, Hyderabad",
+        "years": "2019 - 2019",
+        "grade": "Excellent",
+        "degree": "Certification",
+        "specialization": "Advanced Certification in AI&ML"
+      },
+      {
+        "institution": "IIIT, RK Valley, RGUKT",
+        "years": "2012 - 2016",
+        "grade": "8.03",
+        "degree": "B.Tech",
+        "specialization": "Computer Science and Engineering"
+      },
+      {
+        "institution": "IIIT, RK Valley, RGUKT",
+        "years": "2010 - 2012",
+        "grade": "7.09",
+        "degree": "PUC",
+        "specialization": "M.BI.P.C"
+      },
+      {
+        "institution": "ZPHS, Karwanga",
+        "years": "2010",
+        "grade": "87.17%",
+        "degree": "SSC"
+      }
+    ]
+  }
+}
